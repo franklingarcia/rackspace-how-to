@@ -121,7 +121,7 @@ Billing begins the moment that you provision a service or server on your
 account. You are charged for servers and services as long as their
 resources remain allocated to your account, even if they are not in use
 or are disabled. When you delete the server or service from your
-account, its resources are freed up for someone else to use and you are
+account, it's resources are freed up for someone else to use and you are
 longer billed for them.
 
 You can delete cloud servers and services using the [Cloud Control Panel](http://mycloud.rackspace.com). To cancel a Cloud Sites service
